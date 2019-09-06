@@ -1,4 +1,4 @@
-#### PLP Activities
+### PLP Activities
 
 _College subject_: TECC (Aplicação de Paradigmas de Linguagens de Programação) - Practical complement of the discipline of Paradigms of Programming Languages.
 
